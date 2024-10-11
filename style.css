@@ -1,0 +1,33 @@
+
+.container{
+    outline: 3px solid red;
+    max-width: 290px;
+ display: flex;
+ flex-direction: row;
+ gap:2px;
+ flex-wrap: wrap;
+ 
+ 
+}
+
+button{
+ width: 70px;
+ height: 60px;
+}
+
+.btn-zero{
+    width: 140px;
+}
+
+.display{
+    width: 100%;
+    height: 50px;
+    direction: rtl;
+   
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
