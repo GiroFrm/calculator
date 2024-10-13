@@ -4,9 +4,9 @@ body {
     height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: center;
-   
+    align-items: center;  
 }
+
 .container{
     outline: 3px solid red;
     max-width: 290px;
