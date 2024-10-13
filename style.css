@@ -8,8 +8,8 @@ body {
 }
 
 .container{
-    outline: 3px solid red;
-    max-width: 290px;
+    border: 1px solid red;
+    max-width: 320px;
  display: flex;
  flex-direction: row;
  gap:2px;
@@ -19,12 +19,12 @@ body {
 }
 
 button{
- width: 70px;
+ width: 80px;
  height: 60px;
 }
 
 .btn-zero{
-    width: 140px;
+    width: 160px;
 }
 
 .display{
